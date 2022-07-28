@@ -24,3 +24,7 @@
 .gap-my-5{
     margin-top: 150px !important;
 }
+.fa-brands ,.fa-solid{
+    color: white;
+    font-size: 20px;
+}
