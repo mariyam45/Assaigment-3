@@ -5,6 +5,8 @@
   transform: translate(-50%, -50%);
   text-align: center;
   color: white;
+  min-width: 100%!important;
+  min-height: 80px !important;
 }
 .navBarMargin {
   margin-bottom: 100px;
@@ -31,3 +33,7 @@
 .bg-primary-light{
     background-color:  #267bfa !important;
 }
+.carousel-item .w-100  {
+        min-width: 100%!important;
+        min-height: 80px !important;
+    }
